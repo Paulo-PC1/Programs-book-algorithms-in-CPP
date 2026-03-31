@@ -1,6 +1,7 @@
-This repository serves as a study backlog for my learning journey in C++23, based on the book “C++23 para Windows” by Prof. Augusto Manzano.
+<h2>Programs from the algorithms textbook in C++23</h2>
+This repository serves as a study backlog for my learning journey in C++23, based on the textbook “C++23 para Windows” by Prof. Augusto Manzano.
 
-For the exercises, I also use another book by the same author, “Algoritmos: Lógica para o Desenvolvimento de Programação de Computadores”, which provides the logical and algorithmic foundation for the implementations.
+For the exercises, I also use another tetxbook by the same author, “Algoritmos: Lógica para o Desenvolvimento de Programação de Computadores”, which provides the logical and algorithmic foundation for the implementations.
 
 Below are the covers of each book.
 
